@@ -1,13 +1,13 @@
-# Hola, soy <tu nombre o apodo>
+# Hola, soy lUISMI
 
 ## Qué estudio o a qué me dedico
 
-<!-- Una o dos frases. -->
+Soy estudiante de Estadística.
 
 ## Qué quiero aprender en este curso
 
-<!-- Una o dos frases. -->
+Quiero mejorar y afianzar conocimientos sobre el manejo de los datos, con sus correspondientes herramientas.
 
 ## Una herramienta que ya conozco
 
-<!-- Por ejemplo: Excel, SQL, Python, Power BI. -->
+Python.
